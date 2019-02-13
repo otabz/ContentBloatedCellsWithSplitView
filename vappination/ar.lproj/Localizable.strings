@@ -1,0 +1,294 @@
+/* "Type child's name written on ID card" */
+"Type child's name written on ID card" = "ادخل اسم الطفل كما في شهادة الميلاد";
+
+/* Take a snap */
+"Take a snap" = "خذ لقطة";
+
+/* Date of birth */
+"Date of birth" = "تاريخ الميلاد";
+
+/* Why name written on ID card?\nBecause, later your insurance will be matched with this name. */
+"Why name written on ID card?\nBecause, later your insurance will be matched with this name." = "لماذا نضع الاسم الموجود على شهادة الميلاد ؟
+لاحقا سيتم مطابقة الاسم المدخل مع الاسم الموجود في بطاقة التأمين";
+
+/* Save */
+"Save" = "حفظ";
+
+/* Boy */
+"Boy" = "ذكر";
+
+/* Girl */
+"Girl" = "أنثى";
+
+/* Switch language */
+"Switch language" = "تغيير اللغة";
+
+/* Add child */
+"Add child" = "إضافة الطفل";
+
+/* Reminders */
+"Reminders"  = "التنبيهات";
+
+/* Close */
+"Close" = "أغلق";
+
+/* Baby's Snap! */
+"Baby's Snap!"  = "لقطة للطفل";
+
+/* Add card's image */
+"Add card's image" = "إضافة صوره البطاقة";
+
+/* Can't add more */
+"Can't add more" = "لا يمكن إضافة أكثر";
+
+/* Pinch to Zoom */
+"Pinch to Zoom" = "لتكبير او تصغير الصورة";
+
+/* Attach manual card's image */
+"Attach manual card's image" = "إضافة صور دفتر التطعيمات";
+
+/* Generate PDF to share */
+"Generate PDF to share" = "إنشاء ملف PDF للمشاركة";
+
+/* Reminders are Off */
+"Reminders are Off" = "لا يجوز التنبيهات";
+
+/* Reminders are On */
+"Reminders are On" = "جائز التنبيهات";
+
+/* If you want to check your settings,
+ Please, click button above. */
+"If you want to check your settings,\nPlease, click button above." = "لتغيير الإعدادات
+الرجاء النقر على الزر اعلاه";
+
+/* Reschedule */
+"Reschedule" = "إعادة جدولة";
+
+/* Clear All */
+"Clear All" = "مسح الكل";
+
+/* Scheduled Notifications */
+"Scheduled Notifications" = "جدولة التنبيهات";
+
+/* next vaccination is due in 1 month. */
+"next vaccination is due in 1 month." = "ومن المقرر في ١ الشهر التطعيم المقبل.";
+
+/* Required at */
+"Required at" = "المطلوبة في";
+
+/* next vaccination is due in 7 days. */
+"next vaccination is due in 7 days." = "ومن المقرر في ٧ أيام التطعيم المقبل.";
+
+/* next vaccination is due in 1 day. */
+"next vaccination is due in 1 day." = "ومن المقرر في ١ يوم التطعيم المقبل.";
+
+/* next vaccination is due Today. */
+"next vaccination is due Today." = "ومن المقرر التطعيم المقبل اليوم.";
+
+/* Not Allowed To Send You Notifications */
+"Not Allowed To Send You Notifications" = "غير مسموح لإرسال إشعارات";
+
+/* You will not receive any alert for due vaccinations. These can be configured in Settings. */
+"You will not receive any alert for due vaccinations. These can be configured in Settings." = "لن تتلقى أي تنبيه للحصول على اللقاحات المستحقة. ويمكن تكوينها في الإعدادات .
+";
+
+/* Cancel */
+"Cancel" = "إلغاء";
+
+/* Continue */
+"Continue" = "استمر";
+
+/* Delete */
+"Delete" = "حذف";
+
+/* Are you sure, you want to delete? */
+"Are you sure, you want to delete?" = "هل أنت متأكد أنك تريد حذف؟";
+
+/* You won't be able to recover this data later. */
+"You won't be able to recover this data later." = "فلن تكون قادرة على استرداد هذه البيانات في وقت لاحق .
+";
+
+/* Back */
+"Back" = "رجوع";
+
+/* Edit */
+"Edit" = "تحديث";
+
+/* Muharram */
+"Muharram" = "محرم";
+
+/* Safar */
+"Safar" = "صفر";
+
+/* Rabi I */
+"Rabi I" = "ربيع الأول";
+
+/* Rabi II */
+"Rabi II" = "ربيع الثاني";
+
+/* Jumada I */
+"Jumada I" = "جمادى الأولى";
+
+/* Jumada II */
+"Jumada II" = "جمادى الثاني";
+
+/* Rajab */
+"Rajab" = "رجب";
+
+/* Sha'ban */
+"Sha'ban" = "شعبان";
+
+/* Ramadan */
+"Ramadan" = "رمضان";
+
+/* Shawwal */
+"Shawwal" = "شوال";
+
+/* Dhu al-Qi'dah */
+"Dhu al-Qi'dah" = "ذو القعدة";
+
+/* Dhu al-Hijjah */
+"Dhu al-Hijjah" = "ذي الحجة";
+
+/* months */
+"months" = "أشهر";
+
+/* month */
+"month" = "شهر";
+
+/* days */
+"days" = "أيام";
+
+/* day */
+"day" = "يوم";
+
+/* 0 day */
+"0 day" = "٠ يوم";
+
+/* Next due on Today */
+"Next due on Today" = "التالي المستحقة على اليوم";
+
+/* Next due in */
+"Next due in" = "التالي ويرجع ذلك";
+
+/* remaining vaccine! */
+"remaining vaccine!" = "لقاح المتبقي !";
+
+/* Next */
+"Next" = "التالى";
+
+/* Stages */
+"At Birth" = "عند الولادة";
+"2 Months" = "٢ أشهر";
+"4 Months" = "٤ أشهر";
+"6 Months" = "٦ أشهر";
+"9 Months" = "٩ أشهر";
+"12 Months" = "١٢ أشهر";
+"18 Months" = "١٨ أشهر";
+"24 Months" = "٢٤ أشهر";
+"4-6 Years" = "٤-٦ سنوات";
+
+
+
+/* Numbers */
+"0" = "٠";
+"1" = "١";
+"2" = "٢";
+"3" = "٣";
+"4" = "٤";
+"5" = "٥";
+"6" = "٦";
+"7" = "٧";
+"8" = "٨";
+"9" = "٩";
+"10" = "١٠";
+"11" = "١١";
+"12" = "١٢";
+"18" = "١٨";
+"24" = "٢٤";
+"4-6" = "٤-٦";
+
+/* DTap */
+"DTap" = "الثلاتي البكتيري";
+"The DTaP vaccine is 3 vaccines in 1 shot. It protects against diphtheria, tetanus and pertussis. It's given as a series of 5 shots, the first when your child is 2 months old and the last when they are 4- to 6 years old. Diphtheria is a disease that attacks the throat and heart. It can lead to heart failure and death. Tetanus is also called 'lockjaw.' It can lead to severe muscle spasms and death. Pertussis (also called 'whooping cough') causes severe coughing that makes it hard to breathe, eat, and drink. It can lead to pneumonia, convulsions, brain damage, and death. Having your child immunized when he or she is young (which means making sure he or she gets all of the DTaP shots) protects your child against these diseases for about 10 years. After this time, your child will need booster shots." = "الثلاتي البكتيري هو لقاح يساعد الأطفال الذين تقل أعمارهم عن سن ٧ على تكوين مناعة ضد الأمراض الثلاثة القاتلة التي تسببها البكتيريا: الدفتيريا، الكزاز، والسعال الديكي (الشاهوق). اللقاح هو تحصين معزز للاعمار في سن ١١ التي توفر الحماية المستمرة من تلك الأمراض للمراهقين والبالغين. الدفتريا هو مرض يصيب الجهاز التنفسي التي يمكن أن تسبب مشاكل في التنفس، والشلل، وفشل القلب، والموت. انها شديدة العدوى وينتشر عن طريق السعال والعطس. الكزاز، أو تصلب الفك، يسببه نوع من البكتيريا غالبا ما توجد في التربة. بمجرد أن يدخل الجسم فإنه يطلق على السم الذي يهاجم الجهاز العصبي، مما تسبب تشنجات العضلات والموت إذا تركت دون علاج. السعال الديكي، وأيضا شديد العدوى، يسبب السعال تشنجات شديدة بحيث عند الرضع فإنه يجعل من الصعب على تناول الطعام والشراب، أو حتى التنفس. يمكن أن يؤدي إلى الالتهاب الرئوي، والمضبوطات، وتلف في الدماغ، والموت.";
+
+/* Rota */
+"Rota" =  "فيروس الروتا";
+"The rotavirus vaccine protects against rotavirus. Your child will receive either a two-dose, at 2 and 4 months of age, or a three-dose series, at 2, 4, and 6 months of age, depending on what your doctor recommends. All doses should be given by no later than age 8 months of age. Rotavirus is a virus that causes diarrhea, mostly in babies and young children. The diarrhea can be severe and cause dehydration. Rotavirus can also cause vomiting and fever in babies. After rotavirus vaccination, call your family doctor if your child has stomach pain with severe crying (which may be brief), vomiting, blood in the stool, or is acting weak or very irritable. This is especially important within the first seven days after rotavirus vaccination. Contact your doctor if your child has any of these signs, even if it has been several weeks since the last dose of vaccine." = "فيروس الروتا يحصل على اسمه من حقيقة أنه وجد  تحت المجهر، فإن الفيروس يشبه العجلة. كما يمكنك القول عن عجلة القيادة، فيروس الروتا يكون في  حلقات وحلقات. يسبب هذا، ويسبب التهاب المعدة والأمعاء الحاد مع الإسهال والقيء، وخاصة في الرضع والأطفال الصغار. لحسن الحظ، هناك نوعان من لقاحات الفيروس العجلي التي يمكن أن تحمي الأطفال من هذا المرض. مرض فيروس الروتا هو شديد العدوى. الجرثومة موجودة في البراز من شخص مصاب، ويمكن أن لا تزال قابلة للحياة لفترة طويلة على الأسطح الملوثة، بما في ذلك أيدي الناس. ياتي الأطفال من خلال لمس شيء ما ملوث ومن ثم وضع أيديهم في أفواههم. انتشار عدوى فيروس الروتا هو مشكلة خاصة في المستشفيات ومرافق الرعاية اليوم، حيث يمكن أن ينتشر بسهولة من طفل إلى آخر. كما انها تنتشر بسهولة من قبل العاملين في الرعاية النهارية، وخاصة عند تغيير حفاضات دون غسل أيديهم بعد ذلك.";
+
+/* IPV */
+"IPV" =  "شلل اطفال معطل";
+"The IPV (inactivated polio virus) vaccine helps prevent polio. Polio is an infectious disease caused by a virus that lives in the throat and intestinal tract. It is most often spread through person-to-person contact with the stool of an infected person and may also be spread through oral/nasal secretions. It's given four times as a shot, from age 2 months to 6 years. Polio can cause muscle pain and paralysis of one or both legs or arms. It may also paralyze the muscles used to breathe and swallow. It can lead to death." = "معظم الناس يجب ان تحصل على لقاح شلل الأطفال عندما يكونوا صغارا . يجب تطعيم الأطفال مع أربع جرعات من هذا اللقاح في الاعمار التالية:
+• جرعة في ٢ أشهر
+• جرعة في ٤ أشهر
+• جرعة في١٨-٦ شهرا
+• جرعة منشطة في ٤-٦ سنوات
+
+ويمكن إعطاء هذا اللقاح في نفس الوقت الذي تعطى فيه اللقاحات الأخرى.
+
+لا ينصح التطعيم الروتيني ضد شلل الأطفال للأشخاص تتراوح أعمارهم بين ١٨ و كبار السن الذين يعيشون في الولايات المتحدة ولكن ثلاث مجموعات من البالغين عرضة لملامسة فيروس شلل الأطفال ينبغي أن تنظر التطعيم ضد تعطى فيه اللقاحات الأخرى.
+
+لا ينصح التطعيم الروتيني ضد شلل الأطفال للأشخاص تتراوح أعمارهم بين ١٨  و كبار السن الذين يعيشون في الولايات المتحدة ولكن ثلاث مجموعات من البالغين عرضة لملامسة فيروس شلل الأطفال ينبغي أن تنظر التطعيم ضد شلل الأطفال. هم انهم:
+• المسافرين إلى أجزاء أخرى من العالم حيث شلل الأطفال لا يزال شائعا
+• الناس الذين يعملون في مختبرات التعامل مع العينات التي قد تحتوي على فيروسات شلل الأطفال
+• العاملين في مجال الرعاية الصحية الذين لديهم اتصال وثيق مع الشخص الذي يمكن أن يكون مصابا فيروس شلل الأطفالشلل الأطفال. هم انهم:
+• المسافرين إلى أجزاء أخرى من العالم حيث شلل الأطفال لا يزال شائعا
+• الناس الذين يعملون في مختبرات التعامل مع العينات التي قد تحتوي على فيروسات شلل الأطفال
+• العاملين في مجال الرعاية الصحية الذين لديهم اتصال وثيق مع الشخص الذي يمكن أن يكون مصابا فيروس شلل الأطفال.";
+
+/* MMR */
+"MMR" = "الثلاثي الفيروسي";
+"The MMR vaccine protects against the measles, mumps, and rubella (MMR). The measles cause fever, rash, cough, runny nose, and watery eyes. It can also cause ear infections and pneumonia. Measles can also lead to more serious problems, such as brain swelling and even death. The mumps cause fever, headache, and painful swelling of one or both of the major saliva glands. Mumps can lead to meningitis (infection of the coverings of the brain and spinal cord) and, very rarely, to brain swelling. Rarely, it can cause the testicles of boys or men to swell, which can make them unable to have children. Rubella is also called the German measles. It causes a slight fever, a rash and swelling of the glands in the neck. Rubella can also cause brain swelling or a problem with bleeding. If a pregnant woman catches rubella, it can cause her to lose her baby or have a baby who is blind or deaf, or has trouble learning. Some people have suggested that the MMR vaccine causes autism. However, research has shown that there is no link between autism and childhood vaccinations." = "لثلاثي الفيروسي هو عبارة عن سلسلة اثنين بالرصاص لقاحات تعطى عادة خلال مرحلة الطفولة. وينبغي أن يتلقى الطفل أول لقطة عندما يكون بين ١٥-١٢ شهرا، والثانية عندما يكون بين ٦-٤ سنوات من العمر . يبدأ الحصبة نتيجة لحمى، سعال، سيلان الأنف، التهاب الملتحمة (الرمد الساري)، والأحمرار الطفح الجلدي الذي يبدأ على الوجه وينتشر إلى باقي الجسم. اذا كان الفيروس يصيب الرئتين، فإنه يمكن أن يسبب الالتهاب الرئوي. الحصبة في الأطفال الأكبر سنا يمكن أن يؤدي إلى التهاب في الدماغ، وتسمى التهاب الدماغ، الذي يمكن أن يسبب النوبات وتلف في الدماغ.
+
+ومن المعروف أيضا باسم الحصبة الألمانية والحصبة الألمانية. ويمكن أن يسبب الطفح الجلدي على الوجه وتورم الغدد خلف الأذنين، وفي بعض الحالات، وتورم في المفاصل الصغيرة وانخفاض درجة حرارة الجسم. معظم الأطفال لديهم القدرة على التعافي بسرعة دون ترك تأثيرات دائمة. ";
+
+/* Varicella */
+"Varicella" = "الجديري المائي";
+"The varicella vaccine helps prevent chickenpox. It is given to children once after they are 12 months old and again at 4 to 6 years old, or to older children if they have never had chickenpox or been vaccinated." = "ويستخدم هذا اللقاح للمساعدة في منع عدوى فيروس الحماق (المعروف باسم جدري الماء). جدري الماء هو المرض الاكثر شيوعا في الطفولة، ولكن يمكن أن يسبب أمراض أكثر خطورة في الناس الذين لم يصابوا بجدري الماء أو اخذوا هذا اللقاح. مشاكله (مثل الالتهاب الرئوي والتهاب الكبد أو الدماغ) ونادرا ما قد يحدث مثل هذه العدوى، والعدوى لأول مرة في البالغين قد تكون شديدة جدا. ويمكن أيضا أن يسبب حالة خطيرة جدا لل الدماغ / الكبد يسمى متلازمة راي في الأطفال أو المراهقين. إذا كنت مصابة أثناء الحمل، قد يتضرر الرضع الذين لم يولدوا بعد. التطعيم خلال مرحلة الطفولة قد يساعد في منع هذا المرض والمشاكل التي يمكن أن تحدث بعد ئلك . اعتمادا على العلامة التجارية، والأطفال الذين تتراوح أعمارهم بين ١٢ شهرا إلى ١٢ سنة عادة الحصول على ١ أو ٢ جرعة. اما  مراهقين ١٣ سنة وكبار السن والبالغين غالبا ما تتلقى جرعات ٢ ٨-٤ أسابيع كل جرعه على  حدة. يتابع عن كثب جدول التطعيم التي يقدمها أخصائي الرعاية الصحية.";
+
+/* PVC */
+"Pneumococcal Conjugate (PCV)" = "البكتيريا العقدية لرمؤية";
+"The pneumococcal conjugate vaccine (PCV) protects against a type of bacteria that is a common cause of ear infections. This type of bacteria can also cause more serious illnesses, such as meningitis and bacteremia (infection in the blood stream). Infants and toddlers are given 4 doses of the vaccine at 2, 4, 6, and 12 months of age. The vaccine may also be used in older children who are at risk for pneumococcal infection." = "لقاح المكورات الرئوية (مختصر قاح PCV13) للرضع والأطفال الصغار. فإنه يساعد على منع أمراض المكورات الرئوية، وأنه يساعد أيضا وقف انتشار المرض من شخص لآخر. والآن أيضا متاح لكبار السن. تستمر حماية اللقاح لمدة لا تقل عن ٣ سنوات. لأن معظم الالتهابات الرئوية خطيرة تحدث خلال السنتين الأولى من الحياة، لقاح يحمي الأطفال عندما يكونون اكثر عرضة للخطر .
+يجب على المجموعات التالية من الأطفال الحصول على هذا اللقاح:
+
+• جميع الأطفال الذين تقل أعمارهم عن سنتين من العمر. يجب أن الرضع والأطفال الصغار بصحة جيدة الحصول على ٤ جرعات من لقاح قاح PCV13 المكورات الرئوية في الفترات التالية للعمر :
+جرعة ◦واحد في ٢ أشهر من العمر
+جرعة ◦واحده في ٤ أشهر من العمر
+جرعة واحده في ٦ أشهر من العمر
+جرعة واحده في ١٢ شهرا إلى ١٥ شهرا من العمر";
+
+/* MCV4 */
+"Meningococcal Conjugate Quadrivalent (MCV4)" = "الحمى الشوكية الرباعي المقترن";
+"The meningococcal conjugate vaccine (MCV4) protects against four strains ('types') of bacterial meningitis caused by the bacteria N. meningitidis. Bacterial meningitis is an infection of the fluid around the brain and spinal cord. It is a serious illness that can cause high fever, headache, stiff neck, and confusion. It can also cause more serious complications, such as brain damage, hearing loss, or blindness." = "لقاح المكورات السحائية تساعد على حماية ضد البكتيريا التي تسبب مرض التهاب السحايا. هذه الإصابات لا تحدث في كثير من الأحيان، ولكن يمكن أن تكون خطيرة جدا عندما تحدث. يشير داء المكورات السحائية إلى أن المرض الذي تسببه البكتيريا النيسرية السحائية . وتشمل الأمراض الاكثر وشيوعا التي تسببها هذه البكتيريا التهابات السائل والبطانة المحيطة بالمخ والحبل الشوكي (التهاب السحايا) والتهابات مجرى الدم (تجرثم الدم أو تسمم الدم). حتى اذا حصلوا على العلاج، وحوالي ١٠ إلى ١٥ من أصل ١٠٠ شخص يعانون من مرض التهاب السحايا بالمكورات السحائية سيموتون بسببه.
+
+مرض التهاب السحايا يمكن أن ينتشر من شخص لآخر. البكتيريا التي تسبب هذه العدوى يمكن أن تنتشر عند الناس لديهم اتصال وثيق أو مطول مع اللعاب لشخص ما، مثل طريق التقبيل أو السعال، خصوصا إذا كانوا يعيشون في نفس المكان. المراهقين وصغار البالغين معرضون لخطر متزايد للإصابة بأمراض المكورات السحائية.
+
+ينبغي تطعيم جميع الأطفال الذين تتراوح أعمارهم ١١ إلى ١٢ سنة مع جرعة واحدة من لقاح المكورات السحائية الرباعي. المراهقين الأكبر سنا في حاجة إلى التطعيمة الثانية عندما يكونون من العمر ١٦ عاما حتى البقاء محميا عند من الخطر.";
+
+/* Hepatitis B */
+"Hepatitis B" = "التهاب الكبد ب";
+"The HBV vaccine helps prevent hepatitis B virus (HBV) infection, an infection of the liver that can lead to liver cancer and death. The vaccine is given as a series of 3 shots, with the first shot given soon after birth." = "لقاح الالتهاب الكبدي الوبائي يساعد على منع الفيروس B HBV عدوى التهاب الكبد، والتهاب الكبد يمكن أن يؤدي إلى سرطان الكبد والموت. يعطى اللقاح على شكل سلسلة من ٣ تطعيمات ، مع التطعيمة الأولى تعطى مباشرة بعد الولادة.";
+
+/* DTaP (Td) */
+"DTaP (Td)" = "(الثلاثي البكتيري (الثنائي البكتيري";
+"The Tdap vaccine is used as a booster to the DTaP vaccine. It helps prevent tetanus, diphtheria, and pertussis." = "يتم استخدام لقاح قاح (Tdap) كمنشط للقاح DTaP. أنه يساعد على منع الكزاز والدفتيريا والسعال الديكي.";
+
+/* HIB */
+"HIB" = "المستديمة النزلية";
+"The Hib vaccine helps prevent Haemophilus influenza type b, a leading cause of serious illness in children. It can lead to meningitis, pneumonia and a severe throat infection. The Hib vaccine is given as a series of 3 or 4 shots, from age 2 months to 15 months." = "لقاح المستدمية النزلية يساعد على منع الانفلونزا المستديمة نوع ب، وهو السبب الرئيسي لمرض خطير في الأطفال. يمكن أن يؤدي إلى التهاب السحايا والالتهاب الرئوي والتهاب الحلق الحاد. يعطى لقاح المستدمية النزلية على شكل سلسلة من ٣ أو ٤ تطعيمات ، من سن شهرين إلى ١٥ شهرا.";
+
+/* BCG */
+"BCG" = "الدرن";
+"If it's advised that your baby has the BCG vaccine, the injection is usually offered soon after birth, while your baby is still in hospital. Alternatively, your baby can be referred to a local healthcare centre for vaccination after they've left hospital. This may not necessarily be the local GP surgery, as not all surgeries can provide this service. If you are offered BCG vaccination as an adult, it will be arranged by a local healthcare centre." = "يقى من الدرن الذى يصيب عادة الرئتين, ويمكن أن يصيب العظام والمفاصل والدماغ, يؤثر مرض الدرن على نسبة الكالسيوم المخزنة في الجسم ويعمل على تقليلها ويعتبر من الأمراض القاتلة.";
+
+/* OPV */
+"OPV" = "شلل الاطفال الفموي";
+"The OPV (oral polio virus) vaccine helps prevent polio. Polio is an infectious disease caused by a virus that lives in the throat and intestinal tract. It is most often spread through person-to-person contact with the stool of an infected person and may also be spread through oral/nasal secretions." = "يقى من شلل الأطفال الذى يصيب الجهلز العصبي ويؤدي إلى شلل في الأطراف وإعاقة دائمة للطفل, وقد يؤدي إلى الوفاة.";
+
+/* Measles */
+"Measles" = "الحصبة المفرد";
+"Measles is the most deadly of all childhood rash/fever illnesses. The disease spreads very easily, so it is important to protect against infection. To prevent measles, children (and some adults) should be vaccinated with the measles, mumps, and rubella (MMR) vaccine." = "يقى من الحصبة وهى التهاب فيروسي حاد يسبب طفح ينتشر بشكل تدريجي على العنق الوجه, الجسم, الذراعين و الساقين, ويترافق مع حرارة عالية. وكان هذا المرض أحد أسباب الوفاة عالميا حتى توفر التطعيم.";
+
+/* Hepatitis A */
+"Hepatitis A" = "إلتهاب الكبد أ";
+"Hepatitis A is a liver disease caused by the hepatitis A virus (HAV). Hepatitis A can affect anyone. Vaccines are available for long-term prevention of HAV infection in persons 1 year of age and older. Good personal hygiene and proper sanitation can also help prevent the spread of hepatitis A." = "يقى من الإلتهاب الكبد أ الذى يسبب الحمى والتعب وفقدان الشهية والغثيان وأئم في البطن, واصفرار الجلد والعينين والبول الداكن ومن مضاعفاته فشل حاد في وظائف الكبد والوفاة.";

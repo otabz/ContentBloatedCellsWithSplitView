@@ -1,0 +1,5 @@
+XSym
+0048
+30864a87cc0af888bb543a12e0af6915
+../../../Localize-Swift/Sources/Localize_Swift.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

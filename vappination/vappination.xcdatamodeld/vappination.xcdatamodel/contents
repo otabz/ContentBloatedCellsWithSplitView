@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15C50" minimumToolsVersion="Automatic">
+    <entity name="Card" representedClassName=".Card" syncable="YES">
+        <attribute name="child_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <entity name="Child" representedClassName=".Child" syncable="YES">
+        <attribute name="dob" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="gender" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pic" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="updated_at" optional="YES" attributeType="Date" syncable="YES"/>
+        <relationship name="vaccinations" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Vaccination" inverseName="child" inverseEntity="Vaccination" syncable="YES"/>
+    </entity>
+    <entity name="Sequence" representedClassName=".Sequence" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Vaccination" representedClassName=".Vaccination" syncable="YES">
+        <attribute name="due_on" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="performed_on" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="proof" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="stage_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="child" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Child" inverseName="vaccinations" inverseEntity="Child" syncable="YES"/>
+        <relationship name="vaccines" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Vaccine" inverseName="stage" inverseEntity="Vaccine" syncable="YES"/>
+    </entity>
+    <entity name="Vaccine" representedClassName=".Vaccine" syncable="YES">
+        <attribute name="performed_on" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vaccine_id" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="stage" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Vaccination" inverseName="vaccines" inverseEntity="Vaccination" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Child" positionX="-137" positionY="-18" width="128" height="150"/>
+        <element name="Sequence" positionX="-261" positionY="135" width="128" height="60"/>
+        <element name="Vaccination" positionX="-144" positionY="243" width="128" height="148"/>
+        <element name="Vaccine" positionX="-380" positionY="114" width="128" height="103"/>
+        <element name="Card" positionX="-261" positionY="135" width="128" height="75"/>
+    </elements>
+</model>

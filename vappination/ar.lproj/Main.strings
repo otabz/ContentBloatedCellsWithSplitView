@@ -1,0 +1,167 @@
+/* Class = "UILabel"; text = "18\nM"; ObjectID = "5QY-rK-AKq"; */
+"5QY-rK-AKq.text" = "١٨
+م";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "6dz-iB-3ND"; */
+"6dz-iB-3ND.normalTitle" = "حفظ";
+
+/* Class = "UIButton"; normalTitle = "Take a snap"; ObjectID = "6zS-3n-hrB"; */
+"6zS-3n-hrB.normalTitle" = "خذ لقطة";
+
+/* Class = "UILabel"; text = "Generate PDF to share"; ObjectID = "07i-Ey-Ifd"; */
+"07i-Ey-Ifd.text" = "إنشاء ملف PDF للمشاركة";
+
+/* Class = "UILabel"; text = "Why name written on ID card?\nBecause, later your insurance will be matched with this name."; ObjectID = "9Y3-m8-4of"; */
+"9Y3-m8-4of.text" = "لماذا نضع الاسم الموجود على شهادة الميلاد ؟
+ لاحقا سيتم مطابقة الاسم المدخل مع الاسم الموجود في بطاقة التأمين";
+
+/* Class = "UILabel"; text = "Baby's Snap!"; ObjectID = "BJv-Ge-s7I"; */
+"BJv-Ge-s7I.text" = "لقطة للطفل";
+
+/* Class = "UILabel"; text = "Close"; ObjectID = "DNY-9W-n3e"; */
+"DNY-9W-n3e.text" = "أغلق";
+
+/* Class = "UILabel"; text = "Close"; ObjectID = "Gq8-7g-VVF"; */
+"Gq8-7g-VVF.text" = "أغلق";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "HZm-oV-iGc"; */
+"HZm-oV-iGc.normalTitle" = "حفظ";
+
+/* Class = "UILabel"; text = "Switch language"; ObjectID = "HyZ-zq-9JU"; */
+"HyZ-zq-9JU.text" = "تغيير اللغة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IUq-8K-DrP"; */
+"IUq-8K-DrP.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "K60-N7-nao"; */
+"K60-N7-nao.text" = "Label";
+
+/* Class = "UILabel"; text = "remaining vaccine!"; ObjectID = "KWs-WI-RwO"; */
+"KWs-WI-RwO.text" = "التطعيمات المتبقية !";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "McX-1R-YmA"; */
+"McX-1R-YmA.text" = "٠";
+
+/* Class = "UIViewController"; title = "Edit Child"; ObjectID = "QsU-qF-JDm"; */
+"QsU-qF-JDm.title" = "تعديل الطفل";
+
+/* Class = "UIButton"; normalTitle = "Take a snap"; ObjectID = "RBL-Li-cy9"; */
+"RBL-Li-cy9.normalTitle" = "خذ لقطة";
+
+/* Class = "UILabel"; text = "Date of birth"; ObjectID = "Rmj-em-Cik"; */
+"Rmj-em-Cik.text" = "تاريخ الميلاد";
+
+/* Class = "UILabel"; text = "If you want to check your settings,\nPlease, click button above."; ObjectID = "S1H-tj-YP3"; */
+"S1H-tj-YP3.text" = "لتغيير الإعدادات
+الرجاء النقر على الزر اعلاه";
+
+/* Class = "UITextField"; placeholder = "Type child's name written on ID card"; ObjectID = "UtQ-4x-CFZ"; */
+"UtQ-4x-CFZ.placeholder" = "ادخل اسم الطفل كما في شهادة الميلاد";
+
+/* Class = "UILabel"; text = "Close"; ObjectID = "VGK-gr-sYx"; */
+"VGK-gr-sYx.text" = "أغلق";
+
+/* Class = "UIButton"; normalTitle = "Boy"; ObjectID = "VKy-Ek-4Gg"; */
+"VKy-Ek-4Gg.normalTitle" = "ذكر";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "VWf-P2-Vx6"; */
+"VWf-P2-Vx6.text" = "عنوان";
+
+/* Class = "UIViewController"; title = "Add Child"; ObjectID = "Vye-bZ-e3x"; */
+"Vye-bZ-e3x.title" = "أضف طفل";
+
+/* Class = "UITextField"; placeholder = "Type child's name written on ID card"; ObjectID = "Xm5-qf-nzq"; */
+"Xm5-qf-nzq.placeholder" = "ادخل اسم الطفل كما في شهادة الميلاد";
+
+/* Class = "UILabel"; text = "Scheduled Notifications"; ObjectID = "Yev-dp-Nws"; */
+"Yev-dp-Nws.text" = "جدولة التنبيهات";
+
+/* Class = "UILabel"; text = "9\nM"; ObjectID = "Ymi-fG-bKJ"; */
+"Ymi-fG-bKJ.text" = "٩
+م";
+
+/* Class = "UIButton"; normalTitle = "Reminders are Off"; ObjectID = "Z8i-tf-qhp"; */
+"Z8i-tf-qhp.normalTitle" = "إغلاق التنبيهات ";
+
+/* Class = "UILabel"; text = "Add card's image"; ObjectID = "Zgl-5f-odc"; */
+"Zgl-5f-odc.text" = "إضافة صوره البطاقة";
+
+/* Class = "UILabel"; text = "Date of birth"; ObjectID = "bZe-cy-ZRa"; */
+"bZe-cy-ZRa.text" = "تاريخ الميلاد";
+
+/* Class = "UILabel"; text = "4-6\nY"; ObjectID = "cdq-0O-9rX"; */
+"cdq-0O-9rX.text" = "٤-٦
+و";
+
+/* Class = "UILabel"; text = "Reminder settings"; ObjectID = "cie-ED-Uux"; */
+"cie-ED-Uux.text" = "إعدادات التبيه";
+
+/* Class = "UILabel"; text = "24\nM"; ObjectID = "dKQ-bX-Siz"; */
+"dKQ-bX-Siz.text" = "٢٤
+م";
+
+/* Class = "UILabel"; text = "HIVVP"; ObjectID = "djm-fc-abz"; */
+"djm-fc-abz.text" = "HIVVP";
+
+/* Class = "UILabel"; text = "Saadi Muhammad Tayyab abcdefghijklmnophgfhgfghf"; ObjectID = "ea9-Od-YX8"; */
+"ea9-Od-YX8.text" = "Saadi Muhammad Tayyab abcdefghijklmnophgfhgfghf";
+
+/* Class = "UILabel"; text = "12\nM"; ObjectID = "gYg-7e-8dk"; */
+"gYg-7e-8dk.text" = "١٢
+م";
+
+/* Class = "UILabel"; text = "32"; ObjectID = "gmu-by-zb9"; */
+"gmu-by-zb9.text" = "٣٢";
+
+/* Class = "UIButton"; normalTitle = "July • 2016"; ObjectID = "jbC-tp-NHf"; */
+"jbC-tp-NHf.normalTitle" = "July • 2016";
+
+/* Class = "UILabel"; text = "4\nM"; ObjectID = "jir-nB-1Ax"; */
+"jir-nB-1Ax.text" = "٤
+م";
+
+/* Class = "UILabel"; text = "Pinch to Zoom"; ObjectID = "kdI-eT-Ere"; */
+"kdI-eT-Ere.text" = "لتكبير او تصغير الصورة";
+
+/* Class = "UIButton"; normalTitle = "Boy"; ObjectID = "qSE-w7-YFj"; */
+"qSE-w7-YFj.normalTitle" = "ذكر";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rRP-eN-v9E"; */
+"rRP-eN-v9E.text" = "Label";
+
+/* Class = "UILabel"; text = "2\nM"; ObjectID = "reE-md-dbT"; */
+"reE-md-dbT.text" = "٢
+م";
+
+/* Class = "UIButton"; normalTitle = "Clear All"; ObjectID = "rnj-2r-LzG"; */
+"rnj-2r-LzG.normalTitle" = "مسح الكل";
+
+/* Class = "UILabel"; text = "26 July 2016"; ObjectID = "rwZ-Kj-q3F"; */
+"rwZ-Kj-q3F.text" = "26 July 2016";
+
+/* Class = "UILabel"; text = " •  At Birth"; ObjectID = "s9g-xr-uX4"; */
+"s9g-xr-uX4.text" = "عند الولادة •";
+
+/* Class = "UILabel"; text = "2 years old"; ObjectID = "vpC-bv-pXg"; */
+"vpC-bv-pXg.text" = "سنتان";
+
+/* Class = "UIButton"; normalTitle = "26"; ObjectID = "vqS-g4-sWs"; */
+"vqS-g4-sWs.normalTitle" = "٢٦";
+
+/* Class = "UILabel"; text = "Attach manual card's image"; ObjectID = "wQT-2a-WQT"; */
+"wQT-2a-WQT.text" = "إضافة صور دفتر التطعيمات";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "wbv-sT-nLD"; */
+"wbv-sT-nLD.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "6\nM"; ObjectID = "x26-oG-Nxl"; */
+"x26-oG-Nxl.text" = "٦
+م";
+
+/* Class = "UILabel"; text = "Why name written on ID card?\nBecause, later your insurance will be matched with this name."; ObjectID = "yHu-Mf-3Qh"; */
+"yHu-Mf-3Qh.text" = "لماذا نضع الاسم الموجود على شهادة الميلاد ؟
+لاحقا سيتم مطابقة الاسم المدخل مع الاسم الموجود في بطاقة التأمين";
+
+/* Class = "UIButton"; normalTitle = "Rechedule"; ObjectID = "zK6-3q-0FW"; */
+"zK6-3q-0FW.normalTitle" = "إعاده جدولة";
+
